@@ -1,0 +1,98 @@
+==== CONFIGS ====		
+{
+    "base_path": "c:\\Users\\Ricardo\\Documents\\Dev\\Introdução ao Java\\Estudo-java\\sistema-smart-tv(metodos)\\src",
+    "out": "c:\\Users\\Ricardo\\Documents\\Dev\\Introdução ao Java\\Estudo-java\\sistema-smart-tv(metodos)\\src\\javadoc",
+    "javadoc_executable": "C:\\Program Files\\Java\\jdk-22\\bin\\javadoc.exe",
+    "exclude": [],
+    "raw_params": ""
+}
+
+==== COMMAND ====
+"C:\Program Files\Java\jdk-22\bin\javadoc.exe" 
+	-sourcepath "c:\Users\Ricardo\Documents\Dev\Introdução ao Java\Estudo-java\sistema-smart-tv(metodos)\src" 
+	-d "c:\Users\Ricardo\Documents\Dev\Introdução ao Java\Estudo-java\sistema-smart-tv(metodos)\src\javadoc" 
+	"c:\Users\Ricardo\Documents\Dev\Introdução ao Java\Estudo-java\sistema-smart-tv(metodos)\src\Calculadora.java"
+	"c:\Users\Ricardo\Documents\Dev\Introdução ao Java\Estudo-java\sistema-smart-tv(metodos)\src\Comentarios.java"
+	"c:\Users\Ricardo\Documents\Dev\Introdução ao Java\Estudo-java\sistema-smart-tv(metodos)\src\SmartTv.java"
+	"c:\Users\Ricardo\Documents\Dev\Introdução ao Java\Estudo-java\sistema-smart-tv(metodos)\src\Usuario.java"
+
+
+==== JAVADOC OUTPUT ====
+Loading source file c:\Users\Ricardo\Documents\Dev\Introdu��o ao Java\Estudo-java\sistema-smart-tv(metodos)\src\Calculadora.java...
+Loading source file c:\Users\Ricardo\Documents\Dev\Introdu��o ao Java\Estudo-java\sistema-smart-tv(metodos)\src\Comentarios.java...
+Loading source file c:\Users\Ricardo\Documents\Dev\Introdu��o ao Java\Estudo-java\sistema-smart-tv(metodos)\src\SmartTv.java...
+Loading source file c:\Users\Ricardo\Documents\Dev\Introdu��o ao Java\Estudo-java\sistema-smart-tv(metodos)\src\Usuario.java...
+Constructing Javadoc information...
+Creating destination directory: "c:\Users\Ricardo\Documents\Dev\Introdu��o ao Java\Estudo-java\sistema-smart-tv(metodos)\src\javadoc\"
+Building index for all the packages and classes...
+Standard Doclet version 22.0.1+8-16
+Building tree for all the packages and classes...
+c:\Users\Ricardo\Documents\Dev\Introdu��o ao Java\Estudo-java\sistema-smart-tv(metodos)\src\Calculadora.java:2: error: unexpected heading used: <H1>, compared to implicit preceding heading: <H1>
+* <h1>Calculadora</h1>
+  ^
+Generating c:\Users\Ricardo\Documents\Dev\Introdu��o ao Java\Estudo-java\sistema-smart-tv(metodos)\src\javadoc\Calculadora.html...
+c:\Users\Ricardo\Documents\Dev\Introdu��o ao Java\Estudo-java\sistema-smart-tv(metodos)\src\Calculadora.java:12: warning: use of default constructor, which does not provide a comment
+public class Calculadora {
+       ^
+Generating c:\Users\Ricardo\Documents\Dev\Introdu��o ao Java\Estudo-java\sistema-smart-tv(metodos)\src\javadoc\Comentarios.html...
+c:\Users\Ricardo\Documents\Dev\Introdu��o ao Java\Estudo-java\sistema-smart-tv(metodos)\src\Comentarios.java:1: warning: no comment
+public class Comentarios {
+       ^
+c:\Users\Ricardo\Documents\Dev\Introdu��o ao Java\Estudo-java\sistema-smart-tv(metodos)\src\Comentarios.java:1: warning: use of default constructor, which does not provide a comment
+public class Comentarios {
+       ^
+c:\Users\Ricardo\Documents\Dev\Introdu��o ao Java\Estudo-java\sistema-smart-tv(metodos)\src\Comentarios.java:9: warning: no comment
+public int somaMultiplica (int n, int x, String m){
+           ^
+Generating c:\Users\Ricardo\Documents\Dev\Introdu��o ao Java\Estudo-java\sistema-smart-tv(metodos)\src\javadoc\SmartTv.html...
+c:\Users\Ricardo\Documents\Dev\Introdu��o ao Java\Estudo-java\sistema-smart-tv(metodos)\src\SmartTv.java:1: warning: no comment
+public class SmartTv {
+       ^
+c:\Users\Ricardo\Documents\Dev\Introdu��o ao Java\Estudo-java\sistema-smart-tv(metodos)\src\SmartTv.java:1: warning: use of default constructor, which does not provide a comment
+public class SmartTv {
+       ^
+c:\Users\Ricardo\Documents\Dev\Introdu��o ao Java\Estudo-java\sistema-smart-tv(metodos)\src\SmartTv.java:24: warning: no comment
+  public void aumentarCanal() {
+              ^
+c:\Users\Ricardo\Documents\Dev\Introdu��o ao Java\Estudo-java\sistema-smart-tv(metodos)\src\SmartTv.java:14: warning: no comment
+  public void aumentarVolume() {
+              ^
+c:\Users\Ricardo\Documents\Dev\Introdu��o ao Java\Estudo-java\sistema-smart-tv(metodos)\src\SmartTv.java:10: warning: no comment
+  public void desligar() {
+              ^
+c:\Users\Ricardo\Documents\Dev\Introdu��o ao Java\Estudo-java\sistema-smart-tv(metodos)\src\SmartTv.java:28: warning: no comment
+  public void diminuirCanal() {
+              ^
+c:\Users\Ricardo\Documents\Dev\Introdu��o ao Java\Estudo-java\sistema-smart-tv(metodos)\src\SmartTv.java:19: warning: no comment
+  public void diminuirVolume() {
+              ^
+c:\Users\Ricardo\Documents\Dev\Introdu��o ao Java\Estudo-java\sistema-smart-tv(metodos)\src\SmartTv.java:6: warning: no comment
+  public void ligar() {
+              ^
+c:\Users\Ricardo\Documents\Dev\Introdu��o ao Java\Estudo-java\sistema-smart-tv(metodos)\src\SmartTv.java:32: warning: no comment
+  public void mudarCanal(int novoCanal) {
+              ^
+Generating c:\Users\Ricardo\Documents\Dev\Introdu��o ao Java\Estudo-java\sistema-smart-tv(metodos)\src\javadoc\Usuario.html...
+c:\Users\Ricardo\Documents\Dev\Introdu��o ao Java\Estudo-java\sistema-smart-tv(metodos)\src\Usuario.java:1: warning: no comment
+public class Usuario {
+       ^
+c:\Users\Ricardo\Documents\Dev\Introdu��o ao Java\Estudo-java\sistema-smart-tv(metodos)\src\Usuario.java:1: warning: use of default constructor, which does not provide a comment
+public class Usuario {
+       ^
+c:\Users\Ricardo\Documents\Dev\Introdu��o ao Java\Estudo-java\sistema-smart-tv(metodos)\src\Usuario.java:3: warning: no comment
+  public static void main(String[] args) throws Exception {
+                     ^
+Generating c:\Users\Ricardo\Documents\Dev\Introdu��o ao Java\Estudo-java\sistema-smart-tv(metodos)\src\javadoc\package-summary.html...
+Generating c:\Users\Ricardo\Documents\Dev\Introdu��o ao Java\Estudo-java\sistema-smart-tv(metodos)\src\javadoc\package-tree.html...
+Generating c:\Users\Ricardo\Documents\Dev\Introdu��o ao Java\Estudo-java\sistema-smart-tv(metodos)\src\javadoc\overview-tree.html...
+Generating c:\Users\Ricardo\Documents\Dev\Introdu��o ao Java\Estudo-java\sistema-smart-tv(metodos)\src\javadoc\allclasses-index.html...
+Building index for all classes...
+Generating c:\Users\Ricardo\Documents\Dev\Introdu��o ao Java\Estudo-java\sistema-smart-tv(metodos)\src\javadoc\allpackages-index.html...
+Generating c:\Users\Ricardo\Documents\Dev\Introdu��o ao Java\Estudo-java\sistema-smart-tv(metodos)\src\javadoc\index-all.html...
+Generating c:\Users\Ricardo\Documents\Dev\Introdu��o ao Java\Estudo-java\sistema-smart-tv(metodos)\src\javadoc\search.html...
+Generating c:\Users\Ricardo\Documents\Dev\Introdu��o ao Java\Estudo-java\sistema-smart-tv(metodos)\src\javadoc\index.html...
+Generating c:\Users\Ricardo\Documents\Dev\Introdu��o ao Java\Estudo-java\sistema-smart-tv(metodos)\src\javadoc\help-doc.html...
+1 error
+16 warnings
+
+
